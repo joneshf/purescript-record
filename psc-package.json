@@ -1,0 +1,12 @@
+{
+    "name": "purescript-record",
+    "set": "purerl-0.11.6-20170923155124",
+    "source": "https://github.com/joneshf/purescript-package-sets.git",
+    "depends": [
+        "assert",
+        "functions",
+        "symbols",
+        "typelevel-prelude",
+        "prelude"
+    ]
+}
